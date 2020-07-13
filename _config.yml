@@ -31,7 +31,7 @@ github_username:  jekyll
 plugins:
   - jekyll-feed
 
-permalink: none
+permalink: blog/:year/:month/:day/:title
 comments: true 
 defaults:
   -
